@@ -12,7 +12,7 @@
 
 #### Dizimizi ortadan ikiye ayırıyoruz, daha sonra sağdan ve soldan oluşan dizilerimizi tek eleman kalana kadar ayırmaya devam ediyoruz.
 
-| --|:-------:| --:|
+
 |   |    |    | 16 |
 |   |    | 16 | 21 |
 |   | 16 | 16 |    |
