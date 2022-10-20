@@ -12,8 +12,9 @@
 
 #### Dizimizi ortadan ikiye ayırıyoruz, daha sonra sağdan ve soldan oluşan dizilerimizi tek eleman kalana kadar ayırmaya devam ediyoruz.
 
+|   | Fiyat   | Adet  |
+| --|:-------:| -----:|
+| A | 1000TL  | 1     |
+| B | 100TL   | 10    |
+| C | 1TL     | 1000  |
 
-|   |    |    | 16 |
-|   |    | 16 | 21 |
-|   | 16 | 16 |    |
-| 16|    | 21 |    |
